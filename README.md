@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haejin95&theme=dark)](https://git.io/streak-stats)
+  
+[![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=haejin95&show_icons=true&theme=dracula)](https://github.com/haejin95?tab=repositories)
+<!-- &nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haejin95&layout=compact&theme=dracula)](https://github.com/haejin95?tab=repositories) -->
+
+
 <!--
 **haejin95/haejin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
