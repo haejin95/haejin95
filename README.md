@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align=center>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haejin95&theme=dark)](https://git.io/streak-stats)
   
 [![Gillog's Stats](https://github-readme-stats.vercel.app/api?username=haejin95&show_icons=true&theme=dracula)](https://github.com/haejin95?tab=repositories)
